@@ -88,7 +88,7 @@ namespace PaintDotNetAddin.pdn
 
             if (type == (Type)null) {
                 if (!_customTypeMap.ContainsKey (typeName)) {
-                    throw new FormatException ("Invalid type");
+                    throw new FormatException ("Invalid type: " + typeName);
                 }
 
                 type = _customTypeMap [typeName];
