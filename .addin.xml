@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<Addin id="PaintDotNetImporter" version="0.1" category="File Formats">
+<Addin id="PaintDotNetAddin" version="1.0.0" category="File Formats">
     <Header>
         <Name>Paint.Net Importer</Name>
         <Description>Add-in to import Paint.net (*.pdn) files</Description>
         <Author>Stephen Kew</Author>
-        <Url>http://aquaria.za.net</Url>
+        <Url>https://github.com/stevekew/PaintDotNetAddin</Url>
     </Header>
     <Dependencies>
         <Addin id="Pinta" version="1.6" />
