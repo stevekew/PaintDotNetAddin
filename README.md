@@ -1,6 +1,9 @@
 # Paint.net Addin
 =================
 
+> [!WARNING]  
+> This Addin is no longer under active development and the repository has been archived.
+
 This addin provides support for the [Paint.net (*.pdn) file format] [1].
 
 [1]: http://www.getpaint.net/index.html
